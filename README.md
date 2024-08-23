@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Jonna Gustafsson
-- 🌱 I’m currently learning Web applications in C#, ASP.NET.✨
+- 🌱 I’m currently learning Azure AI Services and Machine Learning✨
 - 📫 How to reach me - email me at jonnaagustafssoon@hotmail.com
